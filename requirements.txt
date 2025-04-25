@@ -1,0 +1,17 @@
+
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.10
+langchain-openai>=0.0.2
+langgraph>=0.0.15
+openai>=1.6.0
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+lxml>=4.9.3
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+numpy>=1.24.0
+tiktoken>=0.5.2
+tavily-python>=0.2.6
+
+rich>=13.6.0
